@@ -2,6 +2,10 @@
 
 ### 演示视频地址：[https://www.bilibili.com/video/BV1KZ4y1B7DH](https://www.bilibili.com/video/BV1KZ4y1B7DH)
 
+从汇编 -> C 一开始肯定也有很多人觉得不可靠，闹着玩呢。
+
+当你认为还是玩具的时候，别人已经用起来了。。。
+
 ## C++写单片机程序的意义所在
 
 1. 针对大资源的热门单片机的尝新方案（ESP32、STM32F4/F7/H7、K210）
