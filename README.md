@@ -21,7 +21,7 @@
 
 - [x] ‌daplink如何使用？
 
-  1. ![image-20220327201935653](C:\Users\taoyi\AppData\Roaming\Typora\typora-user-images\image-20220327201935653.png)
+  1. ![image-20220327201935653](res/image-20220327201935653.png)
   2. 需要把pIO的默认openocd换成我们从官网上下载的openocd
 
 - [x] 包含多个个源文件路径，目录如何配置？
